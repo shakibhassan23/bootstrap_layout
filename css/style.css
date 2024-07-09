@@ -1,0 +1,16 @@
+.header,.hero,.body,.bar,.footer{
+    background-color:chartreuse;
+}
+.box{
+    margin: 10px 0px;
+    min-height: 80px;
+    background-color: hotpink;
+    font-size: 30px;
+    color: white;
+}
+.red{
+    background-color:red;
+}
+.five{
+    background-color: blue;
+}
